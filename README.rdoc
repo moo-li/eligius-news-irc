@@ -1,4 +1,4 @@
-= Eligius-news: a news service for the ELigius bitcoin mining pool
+= Eligius-news: a news service for the Eligius bitcoin mining pool
 
 <b>Version 0.1</b>
 
@@ -6,11 +6,17 @@ Author::    Dominic Sayers (mailto:dominic@sayers.cc)
 Copyright:: Copyright (c)2011 Dominic Sayers
 License::   Distributed under the same terms as Ruby. Portions of this code are copyright (c)2004 David Heinemeier Hansson & (c)2007-2011 Tim Morgan; please see libs/inheritable_attributes.rb for more information.
 
+== What is Eligius news?
+
+* This service consolidates announcements in various channels and from more than one person into an integrated news service for the Eligius bitcoin mining pool.
+
+* Eligius news is published to http://feeds.feedburner.com/eligius-news
+
+* Eligius news comes from
+
+  luke-jr::   The topic in the #Eligius IRC channel  is changed, usually by luke-jr, to announce pool news.
+  Artefact2:: The statistics for the pool are built by Artefact2 and his Twitter announcements tagged #Eligius are included for stats news.
+
+== Notes
+
 See autumn.rdoc for details of the underlying Autumn IRC bot
-
-Eligius news is published to http://feeds.feedburner.com/eligius-news
-
-Eligius news comes from
-
-luke-jr::   The topic in the #Eligius IRC channel  is changed, usually by luke-jr, to announce pool news.
-Artefact2:: The statistics for the pool are built by Artefact2 and his Twitter announcements tagged #Eligius are included for stats news.

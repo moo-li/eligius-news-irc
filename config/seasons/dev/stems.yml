@@ -1,10 +1,8 @@
 --- 
 Example: 
-  nick: eligius-news
+  nick: eligius-news-dev
   leaves: 
   - Administrator
-  - Scorekeeper
-  - Insulter
   - Eligius
   rejoin: true
   channel: "#cricinfo"
