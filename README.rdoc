@@ -12,9 +12,5 @@ Eligius news is published to http://feeds.feedburner.com/eligius-news
 
 Eligius news comes from
 
-luke-jr::	The topic in the #Eligius IRC channel  is changed,
-		usually by luke-jr, to announce pool news.
-		
-Artefact2::	The statistics for the pool are built by
-		Artefact2 and his Twitter announcements tagged
-		#Eligius are included for stats news.
+luke-jr::   The topic in the #Eligius IRC channel  is changed, usually by luke-jr, to announce pool news.
+Artefact2:: The statistics for the pool are built by Artefact2 and his Twitter announcements tagged #Eligius are included for stats news.
